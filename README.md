@@ -12,19 +12,13 @@ In Stremio, open this link (or paste the manifest URL into Addons):
 
 Manifest: `https://raw.githubusercontent.com/JPDimples/stremio-made-for-tammy/main/manifest.json`
 
-## Catalogs
+## Catalogs (condensed 2026-11-11)
 
 | Catalog | Type | Rule |
 |---|---|---|
-| Rom-Coms for Tammy | movie | Comedy + Romance, no horror |
-| Hallmark Movies for Tammy | movie | Hallmark productions, no horror |
-| Dramas for Tammy | movie | Drama, no horror |
-| TV Movies for Tammy | movie | Lifetime productions, no horror |
+| Movies for Tammy | movie | Rom-coms + Hallmark + dramas + TV movies, mixed, no horror |
+| Shows for Tammy | series | Rom-com + drama + comedy + Hallmark shows, English only, no horror |
 | Stand-Up Specials for Tammy | movie | Comedy + "stand-up comedy", no horror |
-| Rom-Com Shows for Tammy | series | Comedy + Romance, no horror |
-| Drama Shows for Tammy | series | Drama, no horror |
-| Comedy Shows for Tammy | series | Comedy, no horror |
-| Hallmark Shows for Tammy | series | Hallmark Channel, no horror |
 
 Each catalog holds up to 100 of the most popular matching titles with IMDb
 ids, so Stremio resolves posters/details through Cinemeta and streams through

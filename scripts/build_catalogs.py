@@ -1,20 +1,18 @@
 #!/usr/bin/env python3
 """Build the "Made for Tammy with love" Stremio addon catalogs from TMDB.
 
-Movies (5) and Series (4), each split by genre. Horror is excluded TWICE:
-once in every discover query (without_genres=27) and again per title after
-fetching details (any title with genre id 27 is dropped, even as a sub-genre).
+Three catalogs (condensed 2026-11-11 at John's request):
+  movie  movies              rom-coms + Hallmark + dramas + TV movies, mixed
+  series shows               rom-com + drama + comedy + Hallmark shows,
+                             English original language ONLY (no Korean)
+  movie  stand-up-specials   stand-up comedy specials (unchanged, separate)
 
-Catalogs:
-  movie  rom-coms           Comedy AND Romance, no Horror
-  movie  hallmark-movies    Hallmark companies (Media/Entertainment/Productions)
-  movie  dramas             Drama, no Horror
-  movie  tv-movies          Lifetime productions, no Horror
-  movie  stand-up-specials  Comedy + "stand-up comedy" keyword, no Horror
-  series rom-com-shows      Comedy AND Romance, no Horror
-  series drama-shows        Drama, no Horror
-  series comedy-shows       Comedy, no Horror
-  series hallmark-shows     Hallmark Channel network, no Horror
+Horror is excluded TWICE: once in every discover query (without_genres=27)
+and again per title after fetching details (any title with genre id 27 is
+dropped, even as a sub-genre).
+
+Merged catalogs are built round-robin across their sources (25 each max, in
+source order, skipping duplicates) so no single genre crowds the others out.
 
 Only items with an IMDb id (tt...) and a poster are kept, so Stremio can
 resolve meta through Cinemeta and streams through the user's own addons.
@@ -44,8 +42,9 @@ KEY = os.environ.get("TMDB_API_KEY", "")
 PER_PAGE = 20
 TARGET = 100
 HORROR = 27
+PER_SOURCE = 25
 
-MOVIE_CATALOGS = [
+MOVIE_SOURCES = [
     ("rom-coms", {
         "with_genres": "35,10749",
         "without_genres": "27",
@@ -72,41 +71,46 @@ MOVIE_CATALOGS = [
         "sort_by": "popularity.desc",
         "include_adult": "false",
     }),
-    ("stand-up-specials", {
-        "with_genres": "35",
-        "with_keywords": "9716",
-        "without_genres": "27",
-        "sort_by": "popularity.desc",
-        "include_adult": "false",
-    }),
 ]
 
-TV_CATALOGS = [
+TV_SOURCES = [
     ("rom-com-shows", {
         "with_genres": "35,10749",
         "without_genres": "27",
+        "with_original_language": "en",
         "sort_by": "popularity.desc",
         "include_adult": "false",
     }),
     ("drama-shows", {
         "with_genres": "18",
         "without_genres": "27",
+        "with_original_language": "en",
         "sort_by": "popularity.desc",
         "include_adult": "false",
     }),
     ("comedy-shows", {
         "with_genres": "35",
         "without_genres": "27",
+        "with_original_language": "en",
         "sort_by": "popularity.desc",
         "include_adult": "false",
     }),
     ("hallmark-shows", {
         "with_networks": "384",
         "without_genres": "27",
+        "with_original_language": "en",
         "sort_by": "popularity.desc",
         "include_adult": "false",
     }),
 ]
+
+STAND_UP = {
+    "with_genres": "35",
+    "with_keywords": "9716",
+    "without_genres": "27",
+    "sort_by": "popularity.desc",
+    "include_adult": "false",
+}
 
 
 def get_json(path, params):
@@ -167,14 +171,14 @@ def tv_meta(d):
     }
 
 
-def build_movies(catalog_id, params):
+def fetch_movies(params, cap):
     metas, seen = [], set()
     page = 1
-    while len(metas) < TARGET and page <= 8:
+    while len(metas) < cap and page <= 8:
         res = get_json("/discover/movie", dict(params, page=page))
         rate_limited()
         for item in res.get("results", []):
-            if len(metas) >= TARGET:
+            if len(metas) >= cap:
                 break
             d = get_json(f"/movie/{item['id']}", {})
             rate_limited()
@@ -186,14 +190,14 @@ def build_movies(catalog_id, params):
     return metas
 
 
-def build_tv(catalog_id, params):
+def fetch_tv(params, cap):
     metas, seen = [], set()
     page = 1
-    while len(metas) < TARGET and page <= 30:
+    while len(metas) < cap and page <= 30:
         res = get_json("/discover/tv", dict(params, page=page))
         rate_limited()
         for item in res.get("results", []):
-            if len(metas) >= TARGET:
+            if len(metas) >= cap:
                 break
             d = get_json(f"/tv/{item['id']}", {
                 "append_to_response": "external_ids",
@@ -205,6 +209,37 @@ def build_tv(catalog_id, params):
                 metas.append(m)
         page += 1
     return metas
+
+
+def merge_round_robin(source_lists, per_source=PER_SOURCE, target=TARGET):
+    """Interleave the source lists so each genre is represented, deduped."""
+    merged, seen = [], set()
+    lists = [lst[:per_source] for lst in source_lists]
+    idx = 0
+    while len(merged) < target:
+        progressed = False
+        for lst in lists:
+            if len(merged) >= target:
+                break
+            if idx < len(lst):
+                m = lst[idx]
+                if m["id"] not in seen:
+                    seen.add(m["id"])
+                    merged.append(m)
+                    progressed = True
+        if not progressed:
+            break
+        idx += 1
+    # fill any shortfall from the remainders, in source order
+    if len(merged) < target:
+        for lst in lists:
+            for m in lst[per_source:]:
+                if len(merged) >= target:
+                    break
+                if m["id"] not in seen:
+                    seen.add(m["id"])
+                    merged.append(m)
+    return merged
 
 
 def write_catalog(ctype, catalog_id, metas):
@@ -223,10 +258,16 @@ def main():
         print("TMDB_API_KEY is not set. Get a free key at https://www.themoviedb.org/settings/api")
         return 1
     print("Building Made for Tammy catalogs from TMDB...")
-    for catalog_id, params in MOVIE_CATALOGS:
-        write_catalog("movie", catalog_id, build_movies(catalog_id, params))
-    for catalog_id, params in TV_CATALOGS:
-        write_catalog("series", catalog_id, build_tv(catalog_id, params))
+    movie_lists = []
+    for _name, params in MOVIE_SOURCES:
+        movie_lists.append(fetch_movies(params, TARGET))
+    write_catalog("movie", "movies", merge_round_robin(movie_lists))
+    tv_lists = []
+    for _name, params in TV_SOURCES:
+        tv_lists.append(fetch_tv(params, TARGET))
+    write_catalog("series", "shows", merge_round_robin(tv_lists))
+    write_catalog("movie", "stand-up-specials",
+                  fetch_movies(STAND_UP, TARGET))
     print("Done.")
     return 0
 
