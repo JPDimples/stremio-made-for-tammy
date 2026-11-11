@@ -1,0 +1,860 @@
+{
+ "metas": [
+  {
+   "id": "tt0436992",
+   "type": "series",
+   "name": "Doctor Who",
+   "poster": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0852863",
+   "type": "series",
+   "name": "Phineas and Ferb",
+   "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt2874692",
+   "type": "series",
+   "name": "When Calls the Heart",
+   "poster": "https://image.tmdb.org/t/p/w500/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Drama",
+    "Western"
+   ]
+  },
+  {
+   "id": "tt0203259",
+   "type": "series",
+   "name": "Law & Order: Special Victims Unit",
+   "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0096697",
+   "type": "series",
+   "name": "The Simpsons",
+   "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1989",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt3906732",
+   "type": "series",
+   "name": "Good Witch",
+   "poster": "https://image.tmdb.org/t/p/w500/c5B9CdRs9MY6Fgknv5uZQKWtl6F.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt1196946",
+   "type": "series",
+   "name": "The Mentalist",
+   "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt1442437",
+   "type": "series",
+   "name": "Modern Family",
+   "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt5151816",
+   "type": "series",
+   "name": "Chesapeake Shores",
+   "poster": "https://image.tmdb.org/t/p/w500/wAWnKnDwrhfUZZ3hKlwr23yBOwM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt32267726",
+   "type": "series",
+   "name": "The Girlfriend",
+   "poster": "https://image.tmdb.org/t/p/w500/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0460649",
+   "type": "series",
+   "name": "How I Met Your Mother",
+   "poster": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt32378211",
+   "type": "series",
+   "name": "Mistletoe Murders",
+   "poster": "https://image.tmdb.org/t/p/w500/8W9zyufl0IkIbOQchORIPqOPi69.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0412142",
+   "type": "series",
+   "name": "House",
+   "poster": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0098904",
+   "type": "series",
+   "name": "Seinfeld",
+   "poster": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1989",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt20221678",
+   "type": "series",
+   "name": "The Way Home",
+   "poster": "https://image.tmdb.org/t/p/w500/kfKsJktZvK22sYX2gV2LjsdIz3u.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Drama",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt4179452",
+   "type": "series",
+   "name": "The Last Kingdom",
+   "poster": "https://image.tmdb.org/t/p/w500/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ]
+  },
+  {
+   "id": "tt0386676",
+   "type": "series",
+   "name": "The Office",
+   "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt2871832",
+   "type": "series",
+   "name": "Cedar Cove",
+   "poster": "https://image.tmdb.org/t/p/w500/jI7srft4ntH3C4iJwaq4vDQMnHG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt3107288",
+   "type": "series",
+   "name": "The Flash",
+   "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0063869",
+   "type": "series",
+   "name": "The Benny Hill Show",
+   "poster": "https://image.tmdb.org/t/p/w500/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1969",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt2231696",
+   "type": "series",
+   "name": "Home & Family",
+   "poster": "https://image.tmdb.org/t/p/w500/lvyodSMUtD1myQcwiIBn159bqi1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Talk"
+   ]
+  },
+  {
+   "id": "tt1405406",
+   "type": "series",
+   "name": "The Vampire Diaries",
+   "poster": "https://image.tmdb.org/t/p/w500/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0312172",
+   "type": "series",
+   "name": "Monk",
+   "poster": "https://image.tmdb.org/t/p/w500/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt32359507",
+   "type": "series",
+   "name": "The Chicken Sisters",
+   "poster": "https://image.tmdb.org/t/p/w500/eNFVyxZeb69HkMmCtl6Oh5A3eNe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2249364",
+   "type": "series",
+   "name": "Broadchurch",
+   "poster": "https://image.tmdb.org/t/p/w500/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt2758770",
+   "type": "series",
+   "name": "Star vs. the Forces of Evil",
+   "poster": "https://image.tmdb.org/t/p/w500/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt3592718",
+   "type": "series",
+   "name": "Signed, Sealed, Delivered",
+   "poster": "https://image.tmdb.org/t/p/w500/ypUCDuxK0nS0EIbnuPOLyMMgxZH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2661044",
+   "type": "series",
+   "name": "The 100",
+   "poster": "https://image.tmdb.org/t/p/w500/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0182576",
+   "type": "series",
+   "name": "Family Guy",
+   "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0090553",
+   "type": "series",
+   "name": "Zoobilee Zoo",
+   "poster": "https://image.tmdb.org/t/p/w500/8gQH6wjUzNv4hZduh0bjRwpH9dr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1986",
+   "genres": []
+  },
+  {
+   "id": "tt1466074",
+   "type": "series",
+   "name": "Columbo",
+   "poster": "https://image.tmdb.org/t/p/w500/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1971",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0487831",
+   "type": "series",
+   "name": "The IT Crowd",
+   "poster": "https://image.tmdb.org/t/p/w500/qtxL0ZLAZN1nd0kOpcu8V32bsU4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0271308",
+   "type": "series",
+   "name": "Tales from the Neverending Story",
+   "poster": "https://image.tmdb.org/t/p/w500/5WsO2qPQNdr7njiFg6XurxrEXp1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Kids"
+   ]
+  },
+  {
+   "id": "tt2057880",
+   "type": "series",
+   "name": "Watch What Happens Live with Andy Cohen",
+   "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Talk",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0397501",
+   "type": "series",
+   "name": "King Solomon's Mines",
+   "poster": "https://image.tmdb.org/t/p/w500/hZWMm5Gh6KeWmPbp59Mz9yJMOhR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt0098749",
+   "type": "series",
+   "name": "Beverly Hills, 90210",
+   "poster": "https://image.tmdb.org/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1990",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0108778",
+   "type": "series",
+   "name": "Friends",
+   "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt36260876",
+   "type": "series",
+   "name": "Twelve Dates 'Til Christmas",
+   "poster": "https://image.tmdb.org/t/p/w500/uY47XnLzJS02swuVHipXYl9epDE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0452046",
+   "type": "series",
+   "name": "Criminal Minds",
+   "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt2372162",
+   "type": "series",
+   "name": "Orange Is the New Black",
+   "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0802821",
+   "type": "series",
+   "name": "Pandemic",
+   "poster": "https://image.tmdb.org/t/p/w500/w5aUXmUAC82kqpImokPXkL11isW.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0460681",
+   "type": "series",
+   "name": "Supernatural",
+   "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt3228420",
+   "type": "series",
+   "name": "You're the Worst",
+   "poster": "https://image.tmdb.org/t/p/w500/whXfP89yXz4AwQ9dzWCTGcl9YvV.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt32907224",
+   "type": "series",
+   "name": "Finding Mr. Christmas",
+   "poster": "https://image.tmdb.org/t/p/w500/xMEfX4Mds1cqCLNhF1Njc4qaF2k.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Reality"
+   ]
+  },
+  {
+   "id": "tt2306299",
+   "type": "series",
+   "name": "Vikings",
+   "poster": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ]
+  },
+  {
+   "id": "tt3444938",
+   "type": "series",
+   "name": "The Tonight Show Starring Jimmy Fallon",
+   "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ]
+  },
+  {
+   "id": "tt0448965",
+   "type": "series",
+   "name": "Jules Verne's Mysterious Island",
+   "poster": "https://image.tmdb.org/t/p/w500/ea0BBhtuAVtOosZwVdgOrtj8oRD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt1475582",
+   "type": "series",
+   "name": "Sherlock",
+   "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0247102",
+   "type": "series",
+   "name": "Girlfriends",
+   "poster": "https://image.tmdb.org/t/p/w500/buFnsyWEg4pPR7dco5Vbsm6HCIY.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0472242",
+   "type": "series",
+   "name": "Blackbeard",
+   "poster": "https://image.tmdb.org/t/p/w500/pK5Lh2BW9Yx4NCg4hPFfzqCsyIO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7335184",
+   "type": "series",
+   "name": "You",
+   "poster": "https://image.tmdb.org/t/p/w500/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0169414",
+   "type": "series",
+   "name": "Arthur",
+   "poster": "https://image.tmdb.org/t/p/w500/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Kids"
+   ]
+  },
+  {
+   "id": "tt21043326",
+   "type": "series",
+   "name": "Ride",
+   "poster": "https://image.tmdb.org/t/p/w500/t1wyw44AXs8Sw3lRVHPuowk3xsd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Drama",
+    "Western"
+   ]
+  },
+  {
+   "id": "tt2356777",
+   "type": "series",
+   "name": "True Detective",
+   "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0115147",
+   "type": "series",
+   "name": "The Daily Show",
+   "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "News",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0341855",
+   "type": "series",
+   "name": "The Lady Musketeer",
+   "poster": "https://image.tmdb.org/t/p/w500/oeJHYjm68q1Wkps10j9anFomGLM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt1839578",
+   "type": "series",
+   "name": "Person of Interest",
+   "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0106053",
+   "type": "series",
+   "name": "Late Show with David Letterman",
+   "poster": "https://image.tmdb.org/t/p/w500/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1993",
+   "genres": [
+    "Talk",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt35166700",
+   "type": "series",
+   "name": "Providence Falls",
+   "poster": "https://image.tmdb.org/t/p/w500/wD2ZqawYZ9aySPZrQP9ds7laUyw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt3513388",
+   "type": "series",
+   "name": "Late Night with Seth Meyers",
+   "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Talk",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0280770",
+   "type": "series",
+   "name": "The Infinite Worlds of H.G. Wells",
+   "poster": "https://image.tmdb.org/t/p/w500/jEefrd36Qx7yoBqir19orzAOOqo.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt31510819",
+   "type": "series",
+   "name": "MobLand",
+   "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt3697842",
+   "type": "series",
+   "name": "The Late Show with Stephen Colbert",
+   "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Talk"
+   ]
+  },
+  {
+   "id": "tt0292272",
+   "type": "series",
+   "name": "Telling Stories with Tomie dePaola",
+   "poster": "https://image.tmdb.org/t/p/w500/8n3dnjYCHHWjXnjaQK8ibxvRN2R.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Family",
+    "Kids"
+   ]
+  },
+  {
+   "id": "tt1601141",
+   "type": "series",
+   "name": "WWE NXT",
+   "poster": "https://image.tmdb.org/t/p/w500/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Reality"
+   ]
+  },
+  {
+   "id": "tt16358384",
+   "type": "series",
+   "name": "Tulsa King",
+   "poster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0249603",
+   "type": "series",
+   "name": "A Girl Thing",
+   "poster": "https://image.tmdb.org/t/p/w500/lhU1uPxk8RzGrmmQyuJ3gDoIJA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7587890",
+   "type": "series",
+   "name": "The Rookie",
+   "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0368730",
+   "type": "series",
+   "name": "Frankenstein",
+   "poster": "https://image.tmdb.org/t/p/w500/u53pUFpA78iluxsxKNq7ptughuS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0397306",
+   "type": "series",
+   "name": "American Dad!",
+   "poster": "https://image.tmdb.org/t/p/w500/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0286989",
+   "type": "series",
+   "name": "Stranded",
+   "poster": "https://image.tmdb.org/t/p/w500/qkpIbTtWge5GCqdlJ0Dj7Gt23Un.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1257 @@
+{
+ "metas": [
+  {
+   "id": "tt32588798",
+   "type": "movie",
+   "name": "Practical Magic 2",
+   "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0216621",
+   "type": "movie",
+   "name": "A Christmas Carol",
+   "poster": "https://image.tmdb.org/t/p/w500/oi1NcVDXlFEsdpLp37BJmFbVlg9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0087428",
+   "type": "movie",
+   "name": "The Hotel New Hampshire",
+   "poster": "https://image.tmdb.org/t/p/w500/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1984",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt30833197",
+   "type": "movie",
+   "name": "Locked in My House",
+   "poster": "https://image.tmdb.org/t/p/w500/7Sg6tiDTibo08F0fcwj6csn9OzE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Thriller",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0058580",
+   "type": "movie",
+   "name": "Sex and the Single Girl",
+   "poster": "https://image.tmdb.org/t/p/w500/eGGj9foBY4jonHskGq7ysgf2ESR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1964",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0164993",
+   "type": "movie",
+   "name": "Alice in Wonderland",
+   "poster": "https://image.tmdb.org/t/p/w500/kpXmXjqeyuSYCtNuGMytWQLdKX.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Fantasy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt35511966",
+   "type": "movie",
+   "name": "La Bola Negra",
+   "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Drama",
+    "War"
+   ]
+  },
+  {
+   "id": "tt13269536",
+   "type": "movie",
+   "name": "Girl in the Basement",
+   "poster": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "Thriller",
+    "Crime",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0109830",
+   "type": "movie",
+   "name": "Forrest Gump",
+   "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt38354960",
+   "type": "movie",
+   "name": "The More the Merrier",
+   "poster": "https://image.tmdb.org/t/p/w500/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "Drama",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt38793125",
+   "type": "movie",
+   "name": "Collision Course",
+   "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt5823690",
+   "type": "movie",
+   "name": "Infidelity in Suburbia",
+   "poster": "https://image.tmdb.org/t/p/w500/gKyvJ8u2US61pHR56C2DoVbwnu.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Thriller",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt22526100",
+   "type": "movie",
+   "name": "The Love Hypothesis",
+   "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt38354975",
+   "type": "movie",
+   "name": "A Suite Holiday Romance",
+   "poster": "https://image.tmdb.org/t/p/w500/srjYgIahAUR78YWpBbbw9orukk9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "TV Movie",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt34206385",
+   "type": "movie",
+   "name": "Primetime",
+   "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt2287663",
+   "type": "movie",
+   "name": "Blue Lagoon: The Awakening",
+   "poster": "https://image.tmdb.org/t/p/w500/ptsBY9Aqo4Mn0V1krI5s8WfFxzW.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Drama",
+    "Adventure",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3783958",
+   "type": "movie",
+   "name": "La La Land",
+   "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt24822574",
+   "type": "movie",
+   "name": "A Biltmore Christmas",
+   "poster": "https://image.tmdb.org/t/p/w500/zwlauOMw8cqRrl8CFbJ0a4KG38i.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt37961714",
+   "type": "movie",
+   "name": "Surviving Hurricane Otis",
+   "poster": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt6237208",
+   "type": "movie",
+   "name": "From Straight A's to XXX",
+   "poster": "https://image.tmdb.org/t/p/w500/7o7qmymPy1D9mASODsrOHq41Fye.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Drama",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt14173636",
+   "type": "movie",
+   "name": "The Invite",
+   "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt38354934",
+   "type": "movie",
+   "name": "We Met in December",
+   "poster": "https://image.tmdb.org/t/p/w500/wJfUBJXLDBkDzLvFTj8hKqF6Xy3.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "Drama",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt37803364",
+   "type": "movie",
+   "name": "Possible Love",
+   "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt5304688",
+   "type": "movie",
+   "name": "Bad Sister",
+   "poster": "https://image.tmdb.org/t/p/w500/hlJSkTnCZsotjOJjAA5jrdckH0o.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Thriller",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt9466114",
+   "type": "movie",
+   "name": "The Idea of You",
+   "poster": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Music",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt37985000",
+   "type": "movie",
+   "name": "Christmas at the Catnip Caf\u00e9",
+   "poster": "https://image.tmdb.org/t/p/w500/4OdcIegFxwFIflJ0N0hXUXNtV93.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "TV Movie",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt35856037",
+   "type": "movie",
+   "name": "Your Mother Your Mother Your Mother",
+   "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt5957584",
+   "type": "movie",
+   "name": "Girl in the Box",
+   "poster": "https://image.tmdb.org/t/p/w500/uLH92vwvTlOjnSCG5JqJtH1fT9p.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Drama",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0211915",
+   "type": "movie",
+   "name": "Am\u00e9lie",
+   "poster": "https://image.tmdb.org/t/p/w500/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0442811",
+   "type": "movie",
+   "name": "McBride: It's Murder, Madam",
+   "poster": "https://image.tmdb.org/t/p/w500/mjIg65C6i1Cbzk1BsiSpoxzYoeQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "TV Movie",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0816692",
+   "type": "movie",
+   "name": "Interstellar",
+   "poster": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+   ]
+  },
+  {
+   "id": "tt3074694",
+   "type": "movie",
+   "name": "Flowers in the Attic",
+   "poster": "https://image.tmdb.org/t/p/w500/owzDkkxL2DogC2mq1fgIvrlDcux.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt33071426",
+   "type": "movie",
+   "name": "The Drama",
+   "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0402348",
+   "type": "movie",
+   "name": "Love's Enduring Promise",
+   "poster": "https://image.tmdb.org/t/p/w500/Aakkjr1wjTO8T2a3bPsYKGkKtLX.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Western"
+   ]
+  },
+  {
+   "id": "tt13609648",
+   "type": "movie",
+   "name": "Sense and Sensibility",
+   "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt39182249",
+   "type": "movie",
+   "name": "Kidnapped in Her Own Home: The Martha Carelli Story",
+   "poster": "https://image.tmdb.org/t/p/w500/24o9ECIyaEBxAEUXLqes4LsAwuD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Crime",
+    "Thriller",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt1041829",
+   "type": "movie",
+   "name": "The Proposal",
+   "poster": "https://image.tmdb.org/t/p/w500/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7688990",
+   "type": "movie",
+   "name": "Christmas Getaway",
+   "poster": "https://image.tmdb.org/t/p/w500/ohBJhAI7YJrlYmnr4czCvZj1FW7.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Romance",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0111161",
+   "type": "movie",
+   "name": "The Shawshank Redemption",
+   "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt6997574",
+   "type": "movie",
+   "name": "My Teacher, My Obsession",
+   "poster": "https://image.tmdb.org/t/p/w500/yh06bjJTNu45xyVgpv0wXuWvkgN.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Drama",
+    "Thriller",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0298148",
+   "type": "movie",
+   "name": "Shrek 2",
+   "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0345591",
+   "type": "movie",
+   "name": "Love Comes Softly",
+   "poster": "https://image.tmdb.org/t/p/w500/shyGlG9BJtb8k201XP6R17niKU5.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Western"
+   ]
+  },
+  {
+   "id": "tt31049299",
+   "type": "movie",
+   "name": "Animals",
+   "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Action"
+   ]
+  },
+  {
+   "id": "tt1323973",
+   "type": "movie",
+   "name": "The Trials of Cate McCall",
+   "poster": "https://image.tmdb.org/t/p/w500/2u9raM4MWJTtGVQ7MeYwfgGouRl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt28607951",
+   "type": "movie",
+   "name": "Anora",
+   "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt15412176",
+   "type": "movie",
+   "name": "Next Stop, Christmas",
+   "poster": "https://image.tmdb.org/t/p/w500/f4Y8hRSAfGiSkGoKvS5sruW40me.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "TV Movie",
+    "Fantasy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0068646",
+   "type": "movie",
+   "name": "The Godfather",
+   "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1972",
+   "genres": [
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0955298",
+   "type": "movie",
+   "name": "The Memory Keeper's Daughter",
+   "poster": "https://image.tmdb.org/t/p/w500/gq8nK7OnNjjrGq08jXVhIBsSTKW.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Drama",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt14230458",
+   "type": "movie",
+   "name": "Poor Things",
+   "poster": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Science Fiction",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt21359036",
+   "type": "movie",
+   "name": "Haul Out the Holly",
+   "poster": "https://image.tmdb.org/t/p/w500/naX9S52wyTpUJPR80FIWhgxzufb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "TV Movie",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt31450459",
+   "type": "movie",
+   "name": "Digger",
+   "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt35933035",
+   "type": "movie",
+   "name": "Murder in the Highland Manor",
+   "poster": "https://image.tmdb.org/t/p/w500/rsZpzA7Ssu9m3X3fCcEDxjPXFet.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0110475",
+   "type": "movie",
+   "name": "The Mask",
+   "poster": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt38354943",
+   "type": "movie",
+   "name": "The Snow Must Go On",
+   "poster": "https://image.tmdb.org/t/p/w500/zixxwy8GbxnqbKdViggwnoR611R.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "TV Movie",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt27844906",
+   "type": "movie",
+   "name": "Rosebush Pruning",
+   "poster": "https://image.tmdb.org/t/p/w500/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0338109",
+   "type": "movie",
+   "name": "Homeless to Harvard: The Liz Murray Story",
+   "poster": "https://image.tmdb.org/t/p/w500/oI6BivZQsKj5uZLsudJOke8rc1S.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Drama",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0323033",
+   "type": "movie",
+   "name": "Laws of Attraction",
+   "poster": "https://image.tmdb.org/t/p/w500/6aqR0xwmK0mPOIVShDlT88Vo5W0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt36604797",
+   "type": "movie",
+   "name": "Holiday Touchdown: A Bills Love Story",
+   "poster": "https://image.tmdb.org/t/p/w500/ZotF04zyv7iVTSbpCHEbx4HUde.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt1745960",
+   "type": "movie",
+   "name": "Top Gun: Maverick",
+   "poster": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "Action",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7944094",
+   "type": "movie",
+   "name": "Girl in the Bunker",
+   "poster": "https://image.tmdb.org/t/p/w500/OKtXyFe0BwIlZ0BKXxFbez67sy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "TV Movie",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt33086385",
+   "type": "movie",
+   "name": "You Drive Me Crazy",
+   "poster": "https://image.tmdb.org/t/p/w500/uk20xvDxx36RAOnYCy86yiUGFP8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt46066911",
+   "type": "movie",
+   "name": "A Danish Christmas",
+   "poster": "https://image.tmdb.org/t/p/w500/1fdNNzXLhFW0uXfbK88bJGUi8HP.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt34610311",
+   "type": "movie",
+   "name": "The Shadow's Edge",
+   "poster": "https://image.tmdb.org/t/p/w500/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt12703842",
+   "type": "movie",
+   "name": "Daddy's Perfect Little Girl",
+   "poster": "https://image.tmdb.org/t/p/w500/yfOguNYHRFgrezUjRPwwahio1ef.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "TV Movie",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt10172266",
+   "type": "movie",
+   "name": "Red, White & Royal Blue",
+   "poster": "https://image.tmdb.org/t/p/w500/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt43636041",
+   "type": "movie",
+   "name": "Who's Coming for Christmas?",
+   "poster": "https://image.tmdb.org/t/p/w500/1KIkID5p5smDoR07BjI7mgaV2QQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0137523",
+   "type": "movie",
+   "name": "Fight Club",
+   "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1743360",
+   "type": "movie",
+   "name": "Sundays at Tiffany's",
+   "poster": "https://image.tmdb.org/t/p/w500/95wNSQvguF9XdGP3KMeIbsVHU6b.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Drama",
+    "Romance",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0147800",
+   "type": "movie",
+   "name": "10 Things I Hate About You",
+   "poster": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt38183872",
+   "type": "movie",
+   "name": "Christmas Above the Clouds",
+   "poster": "https://image.tmdb.org/t/p/w500/sMHF7beWXqWzXqtclqrz6vd95xV.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt15398776",
+   "type": "movie",
+   "name": "Oppenheimer",
+   "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ]
+  },
+  {
+   "id": "tt4262142",
+   "type": "movie",
+   "name": "Cleveland Abduction",
+   "poster": "https://image.tmdb.org/t/p/w500/j2iCc5fjyJvKRQAW7d6XWwDFzmr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Crime",
+    "TV Movie",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0120791",
+   "type": "movie",
+   "name": "Practical Magic",
+   "poster": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt10921042",
+   "type": "movie",
+   "name": "Christmas at the Plaza",
+   "poster": "https://image.tmdb.org/t/p/w500/qR7u96cUlmZ7B9jB8Yyv0teszrm.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Romance",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0411705",
+   "type": "movie",
+   "name": "9 Songs",
+   "poster": "https://image.tmdb.org/t/p/w500/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6698648",
+   "type": "movie",
+   "name": "Escaping Dad",
+   "poster": "https://image.tmdb.org/t/p/w500/alDWQ9SovySMJnWOkGLCM5HD3Us.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Thriller",
+    "Drama",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0163651",
+   "type": "movie",
+   "name": "American Pie",
+   "poster": "https://image.tmdb.org/t/p/w500/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt22247482",
+   "type": "movie",
+   "name": "Three Wise Men and a Baby",
+   "poster": "https://image.tmdb.org/t/p/w500/yR3hrMFIiczybGN7Y8wXMjmnPfz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "TV Movie",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt11378946",
+   "type": "movie",
+   "name": "Michael",
+   "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Music",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0840787",
+   "type": "movie",
+   "name": "Nora Roberts' Carolina Moon",
+   "poster": "https://image.tmdb.org/t/p/w500/m7Y94tBFhvnEFya2muyLrpVPogI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "TV Movie",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0119282",
+   "type": "movie",
+   "name": "Hercules",
+   "poster": "https://image.tmdb.org/t/p/w500/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt39300766",
+   "type": "movie",
+   "name": "The Way to You",
+   "poster": "https://image.tmdb.org/t/p/w500/4aOxnMaDkr792WOZFJUb6LxcR74.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "TV Movie",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0075148",
+   "type": "movie",
+   "name": "Rocky",
+   "poster": "https://image.tmdb.org/t/p/w500/1mcJmdbRLusxhoSGjFI3pbEboXt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1976",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt25602750",
+   "type": "movie",
+   "name": "The Girl Who Escaped: The Kara Robinson Story",
+   "poster": "https://image.tmdb.org/t/p/w500/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt15789038",
+   "type": "movie",
+   "name": "Elemental",
+   "poster": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt3626180",
+   "type": "movie",
+   "name": "The Christmas Secret",
+   "poster": "https://image.tmdb.org/t/p/w500/tCaU7Hl9d7Ey3X9OokZoPsq7WfO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Romance",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0120338",
+   "type": "movie",
+   "name": "Titanic",
+   "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt38352000",
+   "type": "movie",
+   "name": "Don't Trust the Couple Upstairs",
+   "poster": "https://image.tmdb.org/t/p/w500/sIBHe9mQDJNQgZ3ZWpCAu03ofJf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "TV Movie",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt37853455",
+   "type": "movie",
+   "name": "One Night Only",
+   "poster": "https://image.tmdb.org/t/p/w500/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt40017372",
+   "type": "movie",
+   "name": "A Season to Blossom",
+   "poster": "https://image.tmdb.org/t/p/w500/7DP7lulYcuMtUFc7AbmnqJBdtw1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "TV Movie",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2582802",
+   "type": "movie",
+   "name": "Whiplash",
+   "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Drama",
+    "Music",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt10260534",
+   "type": "movie",
+   "name": "Sleeping With My Student",
+   "poster": "https://image.tmdb.org/t/p/w500/1odTBUPDBlQrwX1Jo3QLLCvShdF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Thriller",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0100405",
+   "type": "movie",
+   "name": "Pretty Woman",
+   "poster": "https://image.tmdb.org/t/p/w500/oVKX1Pt1q7jXTkTk51mu2S0sAB0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1990",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt7654082",
+   "type": "movie",
+   "name": "Royal New Year's Eve",
+   "poster": "https://image.tmdb.org/t/p/w500/rNzJ3GZqT1L3uszZMjqsmzuD3L6.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Romance",
+    "TV Movie",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1856101",
+   "type": "movie",
+   "name": "Blade Runner 2049",
+   "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Science Fiction",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt39444441",
+   "type": "movie",
+   "name": "The Dating App Killer: The Monica White Story",
+   "poster": "https://image.tmdb.org/t/p/w500/wyu5CdFptyz7ZxmgwcHMMhR5tt0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Thriller",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt1022603",
+   "type": "movie",
+   "name": "(500) Days of Summer",
+   "poster": "https://image.tmdb.org/t/p/w500/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0255605",
+   "type": "movie",
+   "name": "Snow White",
+   "poster": "https://image.tmdb.org/t/p/w500/xIjplbyfFDbHsN7ZK40klO5nnUw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt34384900",
+   "type": "movie",
+   "name": "Love of Your Life",
+   "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt13516094",
+   "type": "movie",
+   "name": "Secrets of a Gold Digger Killer",
+   "poster": "https://image.tmdb.org/t/p/w500/ldOV6UCkAJXKRlD6qH2Xszg4gPM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "Crime",
+    "Drama",
+    "TV Movie"
+   ]
+  }
+ ]
+}
