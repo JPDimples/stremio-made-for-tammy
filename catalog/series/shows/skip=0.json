@@ -855,6 +855,364 @@
     "Drama",
     "Action & Adventure"
    ]
+  },
+  {
+   "id": "tt3581920",
+   "type": "series",
+   "name": "The Last of Us",
+   "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0413573",
+   "type": "series",
+   "name": "Grey's Anatomy",
+   "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0364845",
+   "type": "series",
+   "name": "NCIS",
+   "poster": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt0285370",
+   "type": "series",
+   "name": "The Guardian",
+   "poster": "https://image.tmdb.org/t/p/w500/5USMJz2qw9QBd8yHpguYSz7RzKA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0115346",
+   "type": "series",
+   "name": "Savannah",
+   "poster": "https://image.tmdb.org/t/p/w500/5E5zq6Ppot7UQFOxKp5tbjgvP6P.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Soap",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt8295472",
+   "type": "series",
+   "name": "The Order",
+   "poster": "https://image.tmdb.org/t/p/w500/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0098844",
+   "type": "series",
+   "name": "Law & Order",
+   "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1990",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt23112594",
+   "type": "series",
+   "name": "VisionQuest",
+   "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7942796",
+   "type": "series",
+   "name": "Magnum P.I.",
+   "poster": "https://image.tmdb.org/t/p/w500/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt1844624",
+   "type": "series",
+   "name": "American Horror Story",
+   "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0944947",
+   "type": "series",
+   "name": "Game of Thrones",
+   "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt0247082",
+   "type": "series",
+   "name": "CSI: Crime Scene Investigation",
+   "poster": "https://image.tmdb.org/t/p/w500/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0903747",
+   "type": "series",
+   "name": "Breaking Bad",
+   "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0460627",
+   "type": "series",
+   "name": "Bones",
+   "poster": "https://image.tmdb.org/t/p/w500/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2261391",
+   "type": "series",
+   "name": "Chicago Fire",
+   "poster": "https://image.tmdb.org/t/p/w500/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt9813792",
+   "type": "series",
+   "name": "FROM",
+   "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0773262",
+   "type": "series",
+   "name": "Dexter",
+   "poster": "https://image.tmdb.org/t/p/w500/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0088512",
+   "type": "series",
+   "name": "EastEnders",
+   "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1985",
+   "genres": [
+    "Soap",
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt1586680",
+   "type": "series",
+   "name": "Shameless",
+   "poster": "https://image.tmdb.org/t/p/w500/Yi3WVT6hOkPahOwwvmLmif1jhs.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0279600",
+   "type": "series",
+   "name": "Smallville",
+   "poster": "https://image.tmdb.org/t/p/w500/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0118401",
+   "type": "series",
+   "name": "Midsomer Murders",
+   "poster": "https://image.tmdb.org/t/p/w500/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0410975",
+   "type": "series",
+   "name": "Desperate Housewives",
+   "poster": "https://image.tmdb.org/t/p/w500/4qeI51jDzH81PpUUNaJCBrfm7f6.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt5875444",
+   "type": "series",
+   "name": "Slow Horses",
+   "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt1520211",
+   "type": "series",
+   "name": "The Walking Dead",
+   "poster": "https://image.tmdb.org/t/p/w500/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt5290382",
+   "type": "series",
+   "name": "MINDHUNTER",
+   "poster": "https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Drama",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt2805096",
+   "type": "series",
+   "name": "Chicago P.D.",
+   "poster": "https://image.tmdb.org/t/p/w500/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt4786824",
+   "type": "series",
+   "name": "The Crown",
+   "poster": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2741602",
+   "type": "series",
+   "name": "The Blacklist",
+   "poster": "https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0183068",
+   "type": "series",
+   "name": "Family Affairs",
+   "poster": "https://image.tmdb.org/t/p/w500/oVzzgkPAf9eN4NNGFcZ5amk8NZF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Drama",
+    "Soap"
+   ]
   }
  ]
 }
