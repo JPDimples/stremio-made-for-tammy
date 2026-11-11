@@ -215,9 +215,8 @@ def merge_round_robin(source_lists, per_source=PER_SOURCE, target=TARGET):
     """Interleave the source lists so each genre is represented, deduped."""
     merged, seen = [], set()
     lists = [lst[:per_source] for lst in source_lists]
-    idx = 0
-    while len(merged) < target:
-        progressed = False
+    max_len = max((len(lst) for lst in lists), default=0)
+    for idx in range(max_len):
         for lst in lists:
             if len(merged) >= target:
                 break
@@ -226,13 +225,11 @@ def merge_round_robin(source_lists, per_source=PER_SOURCE, target=TARGET):
                 if m["id"] not in seen:
                     seen.add(m["id"])
                     merged.append(m)
-                    progressed = True
-        if not progressed:
+        if len(merged) >= target:
             break
-        idx += 1
     # fill any shortfall from the remainders, in source order
     if len(merged) < target:
-        for lst in lists:
+        for lst in source_lists:
             for m in lst[per_source:]:
                 if len(merged) >= target:
                     break
