@@ -1,0 +1,906 @@
+{
+ "metas": [
+  {
+   "id": "tt0090479",
+   "type": "series",
+   "name": "Maison Ikkoku",
+   "poster": "https://image.tmdb.org/t/p/w500/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1986",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3385756",
+   "type": "series",
+   "name": "Potato Star 2013QR3",
+   "poster": "https://image.tmdb.org/t/p/w500/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt4584754",
+   "type": "series",
+   "name": "Rin-ne",
+   "poster": "https://image.tmdb.org/t/p/w500/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2983896",
+   "type": "series",
+   "name": "Head over Heels",
+   "poster": "https://image.tmdb.org/t/p/w500/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Soap"
+   ]
+  },
+  {
+   "id": "tt2275419",
+   "type": "series",
+   "name": "You are My Destiny",
+   "poster": "https://image.tmdb.org/t/p/w500/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1414416",
+   "type": "series",
+   "name": "Cross Game",
+   "poster": "https://image.tmdb.org/t/p/w500/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt5513960",
+   "type": "series",
+   "name": "On the Wings of Love",
+   "poster": "https://image.tmdb.org/t/p/w500/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0338639",
+   "type": "series",
+   "name": "Un paso adelante",
+   "poster": "https://image.tmdb.org/t/p/w500/snJhxuAN0GbfCEUjToWXiIuTElo.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt5546078",
+   "type": "series",
+   "name": "My Son-In-Law's Woman",
+   "poster": "https://image.tmdb.org/t/p/w500/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3974670",
+   "type": "series",
+   "name": "My Dear Cat",
+   "poster": "https://image.tmdb.org/t/p/w500/a8wHHvIVFyK55M2O3O67vC82g3u.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2722936",
+   "type": "series",
+   "name": "Danni Lowinski",
+   "poster": "https://image.tmdb.org/t/p/w500/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1324065",
+   "type": "series",
+   "name": "Los exitosos Pells",
+   "poster": "https://image.tmdb.org/t/p/w500/9nVwikNQG1AK9hmjRfT5G95tCen.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5145452",
+   "type": "series",
+   "name": "Queen of Reversals",
+   "poster": "https://image.tmdb.org/t/p/w500/4juxBI9mKv84XISGs60VQzATBes.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1952071",
+   "type": "series",
+   "name": "MM!",
+   "poster": "https://image.tmdb.org/t/p/w500/5xsIJYkzrMahFHrwtpp7Gr8jDoQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2390038",
+   "type": "series",
+   "name": "OniAi",
+   "poster": "https://image.tmdb.org/t/p/w500/gHaRoBJfNhzbzq6B0R4Gn4nq1lc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3475064",
+   "type": "series",
+   "name": "Mekakucity Actors",
+   "poster": "https://image.tmdb.org/t/p/w500/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5319572",
+   "type": "series",
+   "name": "Go Princess Go",
+   "poster": "https://image.tmdb.org/t/p/w500/cPHbc0wP54qWa7dmvaFxt5W4uwe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6289530",
+   "type": "series",
+   "name": "Smile, You",
+   "poster": "https://image.tmdb.org/t/p/w500/rscdUkrscWqEeIY189cQN4kuQgk.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3798374",
+   "type": "series",
+   "name": "High School King of Savvy",
+   "poster": "https://image.tmdb.org/t/p/w500/uK1IWTfxRCupgJL3Nn3g5G4plr4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt5122716",
+   "type": "series",
+   "name": "The Duo",
+   "poster": "https://image.tmdb.org/t/p/w500/2C9xIVBUqpo5qddID7q6Wcy9f5A.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt4602964",
+   "type": "series",
+   "name": "House of Bluebird",
+   "poster": "https://image.tmdb.org/t/p/w500/eVuuAsaE8sgXZMmTHTxdMv8WTJC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3199286",
+   "type": "series",
+   "name": "No-Rin",
+   "poster": "https://image.tmdb.org/t/p/w500/yXLQv8CezRZOILtieZ8PRB2urpn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6286350",
+   "type": "series",
+   "name": "My Best Ex-Boyfriend",
+   "poster": "https://image.tmdb.org/t/p/w500/2xRlKVh1ZNCpteYloEsHZtOtUtz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6385836",
+   "type": "series",
+   "name": "Bachelor's Vegetable Store",
+   "poster": "https://image.tmdb.org/t/p/w500/bRofDs2zQow4ACiSADYZBYb4lQc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt4128654",
+   "type": "series",
+   "name": "Discovery of Love",
+   "poster": "https://image.tmdb.org/t/p/w500/qtVi9OHMsAoJkZlW1uk2EcONeNt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt4686292",
+   "type": "series",
+   "name": "Warm and Cozy",
+   "poster": "https://image.tmdb.org/t/p/w500/pQ1PjmVu2VoIKixGU8g0TcdBFat.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt4274682",
+   "type": "series",
+   "name": "Falling for Innocence",
+   "poster": "https://image.tmdb.org/t/p/w500/2BZknHHXDOUxE5qifjDRLMbaXq7.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt3364908",
+   "type": "series",
+   "name": "Glory Jane",
+   "poster": "https://image.tmdb.org/t/p/w500/59vxJhw7WWTX7WMpZ53ZuMPrhOn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5476060",
+   "type": "series",
+   "name": "Yu Hee, the Witch",
+   "poster": "https://image.tmdb.org/t/p/w500/fUIM4mxL7EUe3m3Zo57OuOOVLEB.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0464626",
+   "type": "series",
+   "name": "Wonderful Life",
+   "poster": "https://image.tmdb.org/t/p/w500/dGfQ3PtcaYxTbmzi4rBG5qXxuC0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt4984004",
+   "type": "series",
+   "name": "Twenty Again",
+   "poster": "https://image.tmdb.org/t/p/w500/yeYQW0virKeKWdyrHwY72RaDauu.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5600810",
+   "type": "series",
+   "name": "Marry Me, or Not?",
+   "poster": "https://image.tmdb.org/t/p/w500/irCL1BBfe9IAs2C6MAaqaxdQUJ2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt5351736",
+   "type": "series",
+   "name": "Candy Boy",
+   "poster": "https://image.tmdb.org/t/p/w500/7O68ST950n9zDAs2IgH4brDfGU2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt4696140",
+   "type": "series",
+   "name": "Divorce Lawyer in Love",
+   "poster": "https://image.tmdb.org/t/p/w500/e2j9JLjjNo4Dbs7GhgRZsVjOf4m.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt4135276",
+   "type": "series",
+   "name": "My Secret Hotel",
+   "poster": "https://image.tmdb.org/t/p/w500/9mQIDnfI7SEP3RKDZHKTDTzhKe8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt3718908",
+   "type": "series",
+   "name": "Witch's Romance",
+   "poster": "https://image.tmdb.org/t/p/w500/88aq7A2VhM6dR5YB4TxVgi9h4sT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5120734",
+   "type": "series",
+   "name": "Spy MyeongWol",
+   "poster": "https://image.tmdb.org/t/p/w500/sIjq0v9Hdzo9nYt8nXd8O0IBiBR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2324713",
+   "type": "series",
+   "name": "Oh! My Lady",
+   "poster": "https://image.tmdb.org/t/p/w500/43BiTuO1VMiFjBNqPoCnQf7evBe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt7516476",
+   "type": "series",
+   "name": "Go, Single Lady",
+   "poster": "https://image.tmdb.org/t/p/w500/33mPuB6UTJkscJxKmcEeruKj0gl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt4342564",
+   "type": "series",
+   "name": "Heart to Heart",
+   "poster": "https://image.tmdb.org/t/p/w500/rcCfp5X6KGKrPKDIIuNnTDEUjTI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5679600",
+   "type": "series",
+   "name": "The Greatest Marriage",
+   "poster": "https://image.tmdb.org/t/p/w500/iIPJgwACKzrSeHLm6F3L1L7j1x4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5120616",
+   "type": "series",
+   "name": "Super Daddy Yeol",
+   "poster": "https://image.tmdb.org/t/p/w500/loPdMl4QBzoVEx8jrjF5mJnKmlA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2375282",
+   "type": "series",
+   "name": "My Princess",
+   "poster": "https://image.tmdb.org/t/p/w500/le1U5CbfKkOpuk4IIL0jREydXRf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2363848",
+   "type": "series",
+   "name": "The Man Who Can't Get Married",
+   "poster": "https://image.tmdb.org/t/p/w500/Aioma4rSwKyJhPsNZu3fE4ru7lD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5324938",
+   "type": "series",
+   "name": "Csak sz\u00ednh\u00e1z \u00e9s m\u00e1s semmi",
+   "poster": "https://image.tmdb.org/t/p/w500/szMbQF6kxhQwXntK6xRxJNtzAqg.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt3590610",
+   "type": "series",
+   "name": "Baby Faced Beauty",
+   "poster": "https://image.tmdb.org/t/p/w500/iGGznp3qkUJyeOXyQhGJL3ebxPC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0771623",
+   "type": "series",
+   "name": "1% of Anything",
+   "poster": "https://image.tmdb.org/t/p/w500/tPiPJkPVrIJ5BRQjFoHAOC6rIbo.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3658070",
+   "type": "series",
+   "name": "Inugami-san and Nekoyama-san",
+   "poster": "https://image.tmdb.org/t/p/w500/xEGAqvlfJwkkrp7KHR01P6nzWs4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5486218",
+   "type": "series",
+   "name": "The Family Is Coming",
+   "poster": "https://image.tmdb.org/t/p/w500/8NgaHirl9bbiipuOs9GUQb5eWqP.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt3147984",
+   "type": "series",
+   "name": "Me too, Flower!",
+   "poster": "https://image.tmdb.org/t/p/w500/yBN8XIR2YKA3DWPEbeJmuPrI4Yc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2367280",
+   "type": "series",
+   "name": "Late Blooming Sunflower My Life Renewed",
+   "poster": "https://image.tmdb.org/t/p/w500/fAKScJoyWC5QDK3wwOKgxVbz3x4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5332172",
+   "type": "series",
+   "name": "Madame Antoine",
+   "poster": "https://image.tmdb.org/t/p/w500/rc5pUSQIY0dvwmh2cjrGj4Egpzy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt5260106",
+   "type": "series",
+   "name": "Imaginary Cat",
+   "poster": "https://image.tmdb.org/t/p/w500/3humbmpvcvNrLy98wSWInexxhS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1204222",
+   "type": "series",
+   "name": "Around 40",
+   "poster": "https://image.tmdb.org/t/p/w500/7822OzqIbYF1liiegqcVAA4zKsW.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2473902",
+   "type": "series",
+   "name": "Love Keeps Going",
+   "poster": "https://image.tmdb.org/t/p/w500/ekllrTu35z3f4tYeQiOM81zpGMt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt4686328",
+   "type": "series",
+   "name": "Ex-Girlfriend Club",
+   "poster": "https://image.tmdb.org/t/p/w500/cdAJs1vtNPeeG1aYwlnWgAmhjME.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt4592384",
+   "type": "series",
+   "name": "Bagels & Bubbels",
+   "poster": "https://image.tmdb.org/t/p/w500/qEgNmidRl66wybAhUravsbIQoYL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3383586",
+   "type": "series",
+   "name": "Divorce Chaser",
+   "poster": "https://image.tmdb.org/t/p/w500/1eWCOrQdCbL5Qyzs25gqn0SsiUR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1487657",
+   "type": "series",
+   "name": "Smile Again",
+   "poster": "https://image.tmdb.org/t/p/w500/rZpOAZrzcjG6GzF3SozhRRBuayw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1064534",
+   "type": "series",
+   "name": "Over-the-Shoulder Lover",
+   "poster": "https://image.tmdb.org/t/p/w500/ySXpp6zI2E8RSaoTx1NLnoHKR5K.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt2508520",
+   "type": "series",
+   "name": "Goodbye Dear Wife",
+   "poster": "https://image.tmdb.org/t/p/w500/84TXKpPQWYrZPQUx5nma7DBHLAJ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt6953936",
+   "type": "series",
+   "name": "P.S. Man",
+   "poster": "https://image.tmdb.org/t/p/w500/buHXKxOhxTXorN5HkLK49uzaktu.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3346046",
+   "type": "series",
+   "name": "Love Buffet",
+   "poster": "https://image.tmdb.org/t/p/w500/fyk9Ixjhk2HbsNOPKnaILmSRDFx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5290140",
+   "type": "series",
+   "name": "The Lover",
+   "poster": "https://image.tmdb.org/t/p/w500/cHem6GaZKI6BC0VIJ3ERvqzMTzK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt9165876",
+   "type": "series",
+   "name": "Be Strong, Geum-soon!",
+   "poster": "https://image.tmdb.org/t/p/w500/hPLQoVAF0IdyyfrayQ1rH0f0Qfx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt2273711",
+   "type": "series",
+   "name": "9 End 2 Outs",
+   "poster": "https://image.tmdb.org/t/p/w500/u1ToG0tmD4M2DBn32oayRmFdWRl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6354746",
+   "type": "series",
+   "name": "Love or Bread",
+   "poster": "https://image.tmdb.org/t/p/w500/usJZK97bnsYU1cGElhztufs1rNz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1973541",
+   "type": "series",
+   "name": "Mama Is an Idol",
+   "poster": "https://image.tmdb.org/t/p/w500/lGM6s08cRlkuQUBiSwTJLx8pKXa.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1987",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3028358",
+   "type": "series",
+   "name": "Fondant Garden",
+   "poster": "https://image.tmdb.org/t/p/w500/ofoceG9zVm7mkGYe4Q4uF2xTKlb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt5197296",
+   "type": "series",
+   "name": "My First Time",
+   "poster": "https://image.tmdb.org/t/p/w500/cOisxtGXIA6PYfVO2RczG3xBgq3.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6212902",
+   "type": "series",
+   "name": "The Wedding Scheme",
+   "poster": "https://image.tmdb.org/t/p/w500/mTb4mBdD0gniUe7diBgA91v9dtq.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  }
+ ]
+}

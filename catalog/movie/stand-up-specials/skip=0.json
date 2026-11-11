@@ -1,0 +1,1151 @@
+{
+ "metas": [
+  {
+   "id": "tt40898187",
+   "type": "movie",
+   "name": "The Roast of Kevin Hart",
+   "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt46068179",
+   "type": "movie",
+   "name": "Mike Tyson: Return of the Mike",
+   "poster": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt8271714",
+   "type": "movie",
+   "name": "John Mulaney: Kid Gorgeous at Radio City",
+   "poster": "https://image.tmdb.org/t/p/w500/fERO7sktbElVbGS1SGDKzQJWxtn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt39131664",
+   "type": "movie",
+   "name": "Kumail Nanjiani: Night Thoughts",
+   "poster": "https://image.tmdb.org/t/p/w500/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt49625485",
+   "type": "movie",
+   "name": "Janelle James: How Romantic",
+   "poster": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt39901552",
+   "type": "movie",
+   "name": "Jeff Ross: Take a Banana for the Ride",
+   "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt38948229",
+   "type": "movie",
+   "name": "Kevin Hart: Acting My Age",
+   "poster": "https://image.tmdb.org/t/p/w500/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt38575417",
+   "type": "movie",
+   "name": "Nikki Glaser: Good Girl",
+   "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt14544192",
+   "type": "movie",
+   "name": "Bo Burnham: Inside",
+   "poster": "https://image.tmdb.org/t/p/w500/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt34253990",
+   "type": "movie",
+   "name": "Sebastian Maniscalco: It Ain't Right",
+   "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt47658621",
+   "type": "movie",
+   "name": "Michael Che: Shot in Minnesota",
+   "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt23571908",
+   "type": "movie",
+   "name": "Chris Rock: Selective Outrage",
+   "poster": "https://image.tmdb.org/t/p/w500/hGTJfBzS8rpNQiitbg6ZnwnD6um.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt39367471",
+   "type": "movie",
+   "name": "Taylor Tomlinson: Prodigal Daughter",
+   "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0105577",
+   "type": "movie",
+   "name": "This Is My Life",
+   "poster": "https://image.tmdb.org/t/p/w500/5cAUlDEAjHCx9Tr1VH8iUro4VXv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1992",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt32767869",
+   "type": "movie",
+   "name": "Ricky Gervais: Mortality",
+   "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt6302122",
+   "type": "movie",
+   "name": "Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry",
+   "poster": "https://image.tmdb.org/t/p/w500/eOgTfgiIbrqVB9Ll0T5PtOD8RGb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt28741830",
+   "type": "movie",
+   "name": "Shane Gillis: Beautiful Dogs",
+   "poster": "https://image.tmdb.org/t/p/w500/8SYsQOur3wAfh1LJf6rvTFpIPHy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt36242994",
+   "type": "movie",
+   "name": "Brett Goldstein: The Second Best Night of Your Life",
+   "poster": "https://image.tmdb.org/t/p/w500/aWVT2RDf0DNorRq0felYfsUbL3t.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt33081211",
+   "type": "movie",
+   "name": "Adam Sandler: Love You",
+   "poster": "https://image.tmdb.org/t/p/w500/qiLCOoJoMrheVzbgrurjp57upf8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt39227597",
+   "type": "movie",
+   "name": "Dave Chappelle: The Unstoppable...",
+   "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt40642070",
+   "type": "movie",
+   "name": "Jimmy O. Yang: Finally Home",
+   "poster": "https://image.tmdb.org/t/p/w500/xKyfcpoygVrNQCuBlCygyzJkGkN.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt38556681",
+   "type": "movie",
+   "name": "Sarah Squirm: Live + in the Flesh",
+   "poster": "https://image.tmdb.org/t/p/w500/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt29543598",
+   "type": "movie",
+   "name": "Kevin Hart & Chris Rock: Headliners Only",
+   "poster": "https://image.tmdb.org/t/p/w500/4dwKP2S9XJVKnTyEpmh8jaiWKpm.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Documentary",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt33813061",
+   "type": "movie",
+   "name": "Your Friend, Nate Bargatze",
+   "poster": "https://image.tmdb.org/t/p/w500/p0NK3bXt5AC6cL3R57DdWLFMGYH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt1999192",
+   "type": "movie",
+   "name": "Kevin Hart: Laugh at My Pain",
+   "poster": "https://image.tmdb.org/t/p/w500/jk7C5sIDHSGiJjBQz6bmPNP1WOF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0251654",
+   "type": "movie",
+   "name": "Dave Chappelle: Killin' Them Softly",
+   "poster": "https://image.tmdb.org/t/p/w500/xQAwaRVkaYtgEbFzsUrYzduJsOd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt41975820",
+   "type": "movie",
+   "name": "Stavros Halkias: Uncle Stav",
+   "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt39479604",
+   "type": "movie",
+   "name": "Katt Williams: The Last Report",
+   "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0484855",
+   "type": "movie",
+   "name": "George Carlin: Life Is Worth Losing",
+   "poster": "https://image.tmdb.org/t/p/w500/djoek5ZJA1J7E6vD0jAoUN5Mqjb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Comedy",
+    "TV Movie",
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt0327036",
+   "type": "movie",
+   "name": "Martin Lawrence Live: Runteldat",
+   "poster": "https://image.tmdb.org/t/p/w500/fRpS1sr1GFPgQobsXoNm5lxatcy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Comedy",
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt4669186",
+   "type": "movie",
+   "name": "Kevin Hart: What Now?",
+   "poster": "https://image.tmdb.org/t/p/w500/lFg4tx0jAYkgrcm1bPBlM0FbQvH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy",
+    "Documentary",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0500140",
+   "type": "movie",
+   "name": "Jerry Seinfeld: I'm Telling You for the Last Time",
+   "poster": "https://image.tmdb.org/t/p/w500/jffjpqXw6W9x6etUSYBkMPEQWRY.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt38711469",
+   "type": "movie",
+   "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
+   "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt27141610",
+   "type": "movie",
+   "name": "John Mulaney: Baby J",
+   "poster": "https://image.tmdb.org/t/p/w500/68IvnpczS3snky0W6K7SpxIGZLp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt27443713",
+   "type": "movie",
+   "name": "Sarah Silverman: Someone You Love",
+   "poster": "https://image.tmdb.org/t/p/w500/tDR5rQi3d6fzoAoh43Tsg4LlFGl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt46062767",
+   "type": "movie",
+   "name": "Kate Berlant: Parmesan",
+   "poster": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt9657544",
+   "type": "movie",
+   "name": "Jim Gaffigan: Quality Time",
+   "poster": "https://image.tmdb.org/t/p/w500/1kwLBCaGJ97gp4mcZk25JSNG3eA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt38641367",
+   "type": "movie",
+   "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
+   "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt41269788",
+   "type": "movie",
+   "name": "Wanda Sykes: Legacy",
+   "poster": "https://image.tmdb.org/t/p/w500/nHE1A7YA51xegolfczZShIsO4dc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt35699057",
+   "type": "movie",
+   "name": "Jessica Kirson: I'm the Man",
+   "poster": "https://image.tmdb.org/t/p/w500/w4cBtYKz8oQy7zGvW571qDIol6b.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt34491055",
+   "type": "movie",
+   "name": "Bill Maher: Is Anyone Else Seeing This?",
+   "poster": "https://image.tmdb.org/t/p/w500/wa7MdHEzHxwMqXy2bPA5pD5VDVY.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0092948",
+   "type": "movie",
+   "name": "Eddie Murphy Raw",
+   "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1987",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt5192124",
+   "type": "movie",
+   "name": "Bo Burnham: Make Happy",
+   "poster": "https://image.tmdb.org/t/p/w500/qVThhskXZZHDfj4m8jOx2CxIVIW.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy",
+    "Music"
+   ]
+  },
+  {
+   "id": "tt39765131",
+   "type": "movie",
+   "name": "Chris Fleming: Live at The Palace",
+   "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1082588",
+   "type": "movie",
+   "name": "Gabriel Iglesias: Hot and Fluffy",
+   "poster": "https://image.tmdb.org/t/p/w500/hYYiubXgtEmWvsaKVp3ssAzUr9l.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt34686029",
+   "type": "movie",
+   "name": "Bill Burr: Drop Dead Years",
+   "poster": "https://image.tmdb.org/t/p/w500/vBdVi94tI9AH3oNgNtVuHc6vYu7.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0963207",
+   "type": "movie",
+   "name": "George Carlin: It's Bad for Ya!",
+   "poster": "https://image.tmdb.org/t/p/w500/m9fIvowFHpVjGn5OzFKudp2XJLD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0085474",
+   "type": "movie",
+   "name": "Eddie Murphy: Delirious",
+   "poster": "https://image.tmdb.org/t/p/w500/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1983",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt5066574",
+   "type": "movie",
+   "name": "Ali Wong: Baby Cobra",
+   "poster": "https://image.tmdb.org/t/p/w500/8stTLVktSAATgFdCeaEUSh6WU2j.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt2883224",
+   "type": "movie",
+   "name": "Sarah Silverman: We Are Miracles",
+   "poster": "https://image.tmdb.org/t/p/w500/y0lI9LAOCMh04u8Z5CMPZwGNKLe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1420554",
+   "type": "movie",
+   "name": "Kevin Hart: I'm a Grown Little Man",
+   "poster": "https://image.tmdb.org/t/p/w500/xixDPGXhg9Kz93HspsDo1iHf5PO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt28227488",
+   "type": "movie",
+   "name": "Kevin Hart: Reality Check",
+   "poster": "https://image.tmdb.org/t/p/w500/bTiBP0zTDMO9UyrJvKoBScjEmxQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt15523010",
+   "type": "movie",
+   "name": "Dave Chappelle: The Closer",
+   "poster": "https://image.tmdb.org/t/p/w500/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt3663890",
+   "type": "movie",
+   "name": "Tracy Morgan: Bona Fide",
+   "poster": "https://image.tmdb.org/t/p/w500/9o0zmmAOAMasjszZoCek8uaGVgn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "TV Movie",
+    "Comedy",
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt39132072",
+   "type": "movie",
+   "name": "Marcello Hern\u00e1ndez: American Boy",
+   "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt41378543",
+   "type": "movie",
+   "name": "Ramy Youssef: In Love",
+   "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt16259786",
+   "type": "movie",
+   "name": "Jimmy Carr: His Dark Material",
+   "poster": "https://image.tmdb.org/t/p/w500/i0JKuE6hyWw3bwEY3Yi7BYPh7dy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt4073952",
+   "type": "movie",
+   "name": "Iliza Shlesinger: Freezing Hot",
+   "poster": "https://image.tmdb.org/t/p/w500/gXuT1R89O9Z07dI9dnEHm2lhODr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt38734007",
+   "type": "movie",
+   "name": "Comedy Buddy",
+   "poster": "https://image.tmdb.org/t/p/w500/8YzFxF44uaDxzLEGa64etR0vDzT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt32046453",
+   "type": "movie",
+   "name": "Katt Williams: Woke Foke",
+   "poster": "https://image.tmdb.org/t/p/w500/hjgAEcu8JEpeF7KEtmjTzPFD3uL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt2004178",
+   "type": "movie",
+   "name": "Bob Hope's Four-Star Christmas Fiesta from San Antonio",
+   "poster": "https://image.tmdb.org/t/p/w500/gC09rX6horTZfXiEISOF4J9yQjz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1992",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt31723041",
+   "type": "movie",
+   "name": "Jimmy Carr: Natural Born Killer",
+   "poster": "https://image.tmdb.org/t/p/w500/5ntu2EZsk1HDaV7OjhZJT7OumSt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt42654471",
+   "type": "movie",
+   "name": "Stamptown",
+   "poster": "https://image.tmdb.org/t/p/w500/2ZPVi4ThvB3EhAKCYUMQTLTzEbf.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt10521638",
+   "type": "movie",
+   "name": "Whitney Cummings: Can I Touch It?",
+   "poster": "https://image.tmdb.org/t/p/w500/pxDekfQeobu7zONfRGzA5vy0RxL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt32149504",
+   "type": "movie",
+   "name": "Nikki Glaser: Someday You'll Die",
+   "poster": "https://image.tmdb.org/t/p/w500/ekEtVXAuWPwLz6Afv4m7KjORGCe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt9651690",
+   "type": "movie",
+   "name": "Joel McHale: Live from Pyongyang",
+   "poster": "https://image.tmdb.org/t/p/w500/ZMGGA7Ai1vUsPwqI1WYkQzh0Wu.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt37245594",
+   "type": "movie",
+   "name": "Caleb Hearon: Model Comedian",
+   "poster": "https://image.tmdb.org/t/p/w500/y3eCMPnD7zx23YNplj1ArWcbrTJ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt19869374",
+   "type": "movie",
+   "name": "Joel Kim Booster: Psychosexual",
+   "poster": "https://image.tmdb.org/t/p/w500/5IwBSuH7OXEW0BzhEwhKrmIwJ57.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2022",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt9036126",
+   "type": "movie",
+   "name": "Adam Sandler: 100% Fresh",
+   "poster": "https://image.tmdb.org/t/p/w500/ykIpbOWvqx3Jz6oMFss5ldIVkfU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Comedy",
+    "Music"
+   ]
+  },
+  {
+   "id": "tt39695189",
+   "type": "movie",
+   "name": "Juste pour Rire Montr\u00e9al 2025",
+   "poster": "https://image.tmdb.org/t/p/w500/u60BcXVRTj5KZgaFjgJnsYQu3Ma.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt10810424",
+   "type": "movie",
+   "name": "Dave Chappelle: Sticks & Stones",
+   "poster": "https://image.tmdb.org/t/p/w500/onTLKNYvTQ7f86LQZEj6EAUmpjt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt33749189",
+   "type": "movie",
+   "name": "Seth Meyers: Dad Man Walking",
+   "poster": "https://image.tmdb.org/t/p/w500/dnYkySTeTwDrHuBMeU3ImhMWIVe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt0405832",
+   "type": "movie",
+   "name": "Chris Rock: Never Scared",
+   "poster": "https://image.tmdb.org/t/p/w500/wM0BIi1olItUHNCvGKNaeeERsk8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt32323269",
+   "type": "movie",
+   "name": "Hank Green: Pissing Out Cancer",
+   "poster": "https://image.tmdb.org/t/p/w500/6CXN3RT885XqePpvKHux4TRbyv9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt37916276",
+   "type": "movie",
+   "name": "Larry the Cable Guy: It's a Gift",
+   "poster": "https://image.tmdb.org/t/p/w500/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt30028158",
+   "type": "movie",
+   "name": "Trevor Noah: Where Was I",
+   "poster": "https://image.tmdb.org/t/p/w500/nt2uIRpYZ68g0J7dCSnJZqA5unS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy",
+    "Documentary",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt15907298",
+   "type": "movie",
+   "name": "Jim Gaffigan: Comedy Monster",
+   "poster": "https://image.tmdb.org/t/p/w500/hWeCGk21qWMYyFYVMRPlx4VjPks.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2021",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt36575433",
+   "type": "movie",
+   "name": "Rhys James: Spilt Milk",
+   "poster": "https://image.tmdb.org/t/p/w500/jMhi5JUdtACoK0M1RGrxxuWeKqt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt6081882",
+   "type": "movie",
+   "name": "Iliza Shlesinger: Confirmed Kills",
+   "poster": "https://image.tmdb.org/t/p/w500/2FtdOtH9fkpR5nFHTVIbhmX7bO3.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt39052963",
+   "type": "movie",
+   "name": "Jo Koy: Blue in the Face",
+   "poster": "https://image.tmdb.org/t/p/w500/ex8xdDlmo0HWv716Ml5DDMwTkAt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt3387320",
+   "type": "movie",
+   "name": "Greg Davies: The Back of My Mum's Head",
+   "poster": "https://image.tmdb.org/t/p/w500/zri1tbYtQAJPpYaNUeY5DMb2jyw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt10847306",
+   "type": "movie",
+   "name": "Bill Burr: Paper Tiger",
+   "poster": "https://image.tmdb.org/t/p/w500/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2019",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt12357266",
+   "type": "movie",
+   "name": "Jo Koy: In His Elements",
+   "poster": "https://image.tmdb.org/t/p/w500/zx7kOO45cNcE8ag5co9uzYRmUd3.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2020",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt2836376",
+   "type": "movie",
+   "name": "Iliza Shlesinger: War Paint",
+   "poster": "https://image.tmdb.org/t/p/w500/ujAXTyuFXmPrfw1Jvt3iM37cHl9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt30796334",
+   "type": "movie",
+   "name": "Taylor Tomlinson: Have It All",
+   "poster": "https://image.tmdb.org/t/p/w500/nHsbWXfhVk53azsXICJGzn2imMg.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt32140888",
+   "type": "movie",
+   "name": "Iliza Shlesinger: A Different Animal",
+   "poster": "https://image.tmdb.org/t/p/w500/wcbX32cfEeTvCyiI9icF0sclZKK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt2828960",
+   "type": "movie",
+   "name": "Gabriel Iglesias: Aloha Fluffy",
+   "poster": "https://image.tmdb.org/t/p/w500/4UX7xpNdPcE8wcK3eKjKgONlmQT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt3210258",
+   "type": "movie",
+   "name": "Bo Burnham: What.",
+   "poster": "https://image.tmdb.org/t/p/w500/kGDpMWPOKStmvf4F1gkqfeFZmXA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy",
+    "Music"
+   ]
+  },
+  {
+   "id": "tt18278698",
+   "type": "movie",
+   "name": "Dave Chappelle: The Dreamer",
+   "poster": "https://image.tmdb.org/t/p/w500/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt30088797",
+   "type": "movie",
+   "name": "Ricky Gervais: Armageddon",
+   "poster": "https://image.tmdb.org/t/p/w500/i4fbnHXE7qW6AT41xv9XLekvJeZ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0199554",
+   "type": "movie",
+   "name": "George Carlin: Playin' with Your Head",
+   "poster": "https://image.tmdb.org/t/p/w500/j4WkiRSDMACb54L50bmF6iQaKFu.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1986",
+   "genres": [
+    "Documentary",
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt2510998",
+   "type": "movie",
+   "name": "Louis C.K.: Oh My God",
+   "poster": "https://image.tmdb.org/t/p/w500/4roFbQgNik1M8oTN7anqihfNF2i.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt38061951",
+   "type": "movie",
+   "name": "Leanne Morgan: Unspeakable Things",
+   "poster": "https://image.tmdb.org/t/p/w500/bWlwHhTKyp8hB5OhReV9rCmUSFg.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt7203534",
+   "type": "movie",
+   "name": "Alec Baldwin: One Night Only",
+   "poster": "https://image.tmdb.org/t/p/w500/heLH72pBGnfFbwGuGqouGPvudq8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2017",
+   "genres": [
+    "Comedy",
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt33209759",
+   "type": "movie",
+   "name": "Ilana Glazer: Human Magic",
+   "poster": "https://image.tmdb.org/t/p/w500/44Os1Qu4mrjtDbnzcSPLkFCiZJb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Comedy",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt39338773",
+   "type": "movie",
+   "name": "Mo Gilligan: In the Moment",
+   "poster": "https://image.tmdb.org/t/p/w500/4Q1E0rQlYfxiWByxvespMMk8TJc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0236388",
+   "type": "movie",
+   "name": "The Original Kings of Comedy",
+   "poster": "https://image.tmdb.org/t/p/w500/vjbEcW9OqWoXKr9e2KySG1WZlNS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Comedy",
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt7830574",
+   "type": "movie",
+   "name": "Ricky Gervais: Humanity",
+   "poster": "https://image.tmdb.org/t/p/w500/mTGuQL74RnxHvTUmBTIAR4h2xmL.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1809315",
+   "type": "movie",
+   "name": "Nick Kroll: Thank You Very Cool",
+   "poster": "https://image.tmdb.org/t/p/w500/5zDfDHy7q8frUoeS6rIJNWIOEj0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Documentary",
+    "TV Movie"
+   ]
+  },
+  {
+   "id": "tt39428930",
+   "type": "movie",
+   "name": "Kevin Nealon: Loose in the Crotch",
+   "poster": "https://image.tmdb.org/t/p/w500/c42gXJyays5gXpOXCMf29DKZv8M.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy"
+   ]
+  }
+ ]
+}

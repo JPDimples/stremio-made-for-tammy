@@ -1,0 +1,1263 @@
+{
+ "metas": [
+  {
+   "id": "tt32588798",
+   "type": "movie",
+   "name": "Practical Magic 2",
+   "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0058580",
+   "type": "movie",
+   "name": "Sex and the Single Girl",
+   "poster": "https://image.tmdb.org/t/p/w500/eGGj9foBY4jonHskGq7ysgf2ESR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1964",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0109830",
+   "type": "movie",
+   "name": "Forrest Gump",
+   "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt22526100",
+   "type": "movie",
+   "name": "The Love Hypothesis",
+   "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt3783958",
+   "type": "movie",
+   "name": "La La Land",
+   "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt14173636",
+   "type": "movie",
+   "name": "The Invite",
+   "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt9466114",
+   "type": "movie",
+   "name": "The Idea of You",
+   "poster": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Music",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0211915",
+   "type": "movie",
+   "name": "Am\u00e9lie",
+   "poster": "https://image.tmdb.org/t/p/w500/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt33071426",
+   "type": "movie",
+   "name": "The Drama",
+   "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1041829",
+   "type": "movie",
+   "name": "The Proposal",
+   "poster": "https://image.tmdb.org/t/p/w500/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0298148",
+   "type": "movie",
+   "name": "Shrek 2",
+   "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt28607951",
+   "type": "movie",
+   "name": "Anora",
+   "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt14230458",
+   "type": "movie",
+   "name": "Poor Things",
+   "poster": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Science Fiction",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0110475",
+   "type": "movie",
+   "name": "The Mask",
+   "poster": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0323033",
+   "type": "movie",
+   "name": "Laws of Attraction",
+   "poster": "https://image.tmdb.org/t/p/w500/6aqR0xwmK0mPOIVShDlT88Vo5W0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt33086385",
+   "type": "movie",
+   "name": "You Drive Me Crazy",
+   "poster": "https://image.tmdb.org/t/p/w500/uk20xvDxx36RAOnYCy86yiUGFP8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt10172266",
+   "type": "movie",
+   "name": "Red, White & Royal Blue",
+   "poster": "https://image.tmdb.org/t/p/w500/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0147800",
+   "type": "movie",
+   "name": "10 Things I Hate About You",
+   "poster": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0120791",
+   "type": "movie",
+   "name": "Practical Magic",
+   "poster": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0163651",
+   "type": "movie",
+   "name": "American Pie",
+   "poster": "https://image.tmdb.org/t/p/w500/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0119282",
+   "type": "movie",
+   "name": "Hercules",
+   "poster": "https://image.tmdb.org/t/p/w500/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt15789038",
+   "type": "movie",
+   "name": "Elemental",
+   "poster": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt37853455",
+   "type": "movie",
+   "name": "One Night Only",
+   "poster": "https://image.tmdb.org/t/p/w500/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0100405",
+   "type": "movie",
+   "name": "Pretty Woman",
+   "poster": "https://image.tmdb.org/t/p/w500/oVKX1Pt1q7jXTkTk51mu2S0sAB0.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1990",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1022603",
+   "type": "movie",
+   "name": "(500) Days of Summer",
+   "poster": "https://image.tmdb.org/t/p/w500/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt26047818",
+   "type": "movie",
+   "name": "Anyone but You",
+   "poster": "https://image.tmdb.org/t/p/w500/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1570728",
+   "type": "movie",
+   "name": "Crazy, Stupid, Love.",
+   "poster": "https://image.tmdb.org/t/p/w500/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt40187050",
+   "type": "movie",
+   "name": "Accidental Partners",
+   "poster": "https://image.tmdb.org/t/p/w500/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt10375624",
+   "type": "movie",
+   "name": "Voicemails for Isabelle",
+   "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0128853",
+   "type": "movie",
+   "name": "You've Got Mail",
+   "poster": "https://image.tmdb.org/t/p/w500/rJLUSpmdxSMqqEsyzeCni3vy1ca.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0077631",
+   "type": "movie",
+   "name": "Grease",
+   "poster": "https://image.tmdb.org/t/p/w500/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1978",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0107048",
+   "type": "movie",
+   "name": "Groundhog Day",
+   "poster": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1993",
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0109424",
+   "type": "movie",
+   "name": "Chungking Express",
+   "poster": "https://image.tmdb.org/t/p/w500/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0120783",
+   "type": "movie",
+   "name": "The Parent Trap",
+   "poster": "https://image.tmdb.org/t/p/w500/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0093779",
+   "type": "movie",
+   "name": "The Princess Bride",
+   "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1987",
+   "genres": [
+    "Fantasy",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0314331",
+   "type": "movie",
+   "name": "Love Actually",
+   "poster": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0335266",
+   "type": "movie",
+   "name": "Lost in Translation",
+   "poster": "https://image.tmdb.org/t/p/w500/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0290002",
+   "type": "movie",
+   "name": "Meet the Fockers",
+   "poster": "https://image.tmdb.org/t/p/w500/59fXm6N2x7QSbvt6BaBxTNBXGL8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0328828",
+   "type": "movie",
+   "name": "American Wedding",
+   "poster": "https://image.tmdb.org/t/p/w500/pCO3lJv2PzPkJty29APxCVSjyoE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0251127",
+   "type": "movie",
+   "name": "How to Lose a Guy in 10 Days",
+   "poster": "https://image.tmdb.org/t/p/w500/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0265208",
+   "type": "movie",
+   "name": "The Girl Next Door",
+   "poster": "https://image.tmdb.org/t/p/w500/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0098635",
+   "type": "movie",
+   "name": "When Harry Met Sally...",
+   "poster": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1989",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0048280",
+   "type": "movie",
+   "name": "Lady and the Tramp",
+   "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1955",
+   "genres": [
+    "Animation",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0457939",
+   "type": "movie",
+   "name": "The Holiday",
+   "poster": "https://image.tmdb.org/t/p/w500/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1411238",
+   "type": "movie",
+   "name": "No Strings Attached",
+   "poster": "https://image.tmdb.org/t/p/w500/9C09L1U9S13J4Ut029Qhu0oLcTQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0446029",
+   "type": "movie",
+   "name": "Scott Pilgrim vs. the World",
+   "poster": "https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0461770",
+   "type": "movie",
+   "name": "Enchanted",
+   "poster": "https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0758752",
+   "type": "movie",
+   "name": "Love & Other Drugs",
+   "poster": "https://image.tmdb.org/t/p/w500/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2010",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1684562",
+   "type": "movie",
+   "name": "The Fall Guy",
+   "poster": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0247638",
+   "type": "movie",
+   "name": "The Princess Diaries",
+   "poster": "https://image.tmdb.org/t/p/w500/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0112870",
+   "type": "movie",
+   "name": "Dilwale Dulhania Le Jayenge",
+   "poster": "https://image.tmdb.org/t/p/w500/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1995",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1564367",
+   "type": "movie",
+   "name": "Just Go with It",
+   "poster": "https://image.tmdb.org/t/p/w500/5nr4n667HD80Wr7dYmqhIYi6CHN.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0046250",
+   "type": "movie",
+   "name": "Roman Holiday",
+   "poster": "https://image.tmdb.org/t/p/w500/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1953",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0045152",
+   "type": "movie",
+   "name": "Singin' in the Rain",
+   "poster": "https://image.tmdb.org/t/p/w500/zjrpWniKbzu0zFR5sUI1Ptdfl9y.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1952",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0110366",
+   "type": "movie",
+   "name": "The Little Rascals",
+   "poster": "https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1994",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0343660",
+   "type": "movie",
+   "name": "50 First Dates",
+   "poster": "https://image.tmdb.org/t/p/w500/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt15671028",
+   "type": "movie",
+   "name": "No Hard Feelings",
+   "poster": "https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt36935050",
+   "type": "movie",
+   "name": "Kissing Is the Easy Part",
+   "poster": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0295289",
+   "type": "movie",
+   "name": "A Guy Thing",
+   "poster": "https://image.tmdb.org/t/p/w500/wWiPuP1wMW32pjX8Q9TEj69TxWI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2003",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0027977",
+   "type": "movie",
+   "name": "Modern Times",
+   "poster": "https://image.tmdb.org/t/p/w500/AthaPakkuCLROdKxtRbKWclkDBK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1936",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0125439",
+   "type": "movie",
+   "name": "Notting Hill",
+   "poster": "https://image.tmdb.org/t/p/w500/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1007028",
+   "type": "movie",
+   "name": "Zack and Miri Make a Porno",
+   "poster": "https://image.tmdb.org/t/p/w500/ipePhKf87FixwfAVJ8MMWK53caI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0795421",
+   "type": "movie",
+   "name": "Mamma Mia!",
+   "poster": "https://image.tmdb.org/t/p/w500/xYLiCWmAMHJubx5jNZ7HuXKjAbV.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0114733",
+   "type": "movie",
+   "name": "Tromeo & Juliet",
+   "poster": "https://image.tmdb.org/t/p/w500/wqLSSp1PEzOeCQsLxzlySQUPZrK.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt24950660",
+   "type": "movie",
+   "name": "Eternity",
+   "poster": "https://image.tmdb.org/t/p/w500/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0053291",
+   "type": "movie",
+   "name": "Some Like It Hot",
+   "poster": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1959",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0243155",
+   "type": "movie",
+   "name": "Bridget Jones's Diary",
+   "poster": "https://image.tmdb.org/t/p/w500/olMTi7uCaec9Yr3Ar07D2SIja1G.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0129387",
+   "type": "movie",
+   "name": "There's Something About Mary",
+   "poster": "https://image.tmdb.org/t/p/w500/slJD1Dvnsf15LoeqhERsyzisAdn.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0356470",
+   "type": "movie",
+   "name": "A Cinderella Story",
+   "poster": "https://image.tmdb.org/t/p/w500/ukwP7gDPWxj1R1dW5iN3mnxkL3D.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0386588",
+   "type": "movie",
+   "name": "Hitch",
+   "poster": "https://image.tmdb.org/t/p/w500/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0405422",
+   "type": "movie",
+   "name": "The 40 Year-Old Virgin",
+   "poster": "https://image.tmdb.org/t/p/w500/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1981677",
+   "type": "movie",
+   "name": "Pitch Perfect",
+   "poster": "https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0252866",
+   "type": "movie",
+   "name": "American Pie 2",
+   "poster": "https://image.tmdb.org/t/p/w500/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0061722",
+   "type": "movie",
+   "name": "The Graduate",
+   "poster": "https://image.tmdb.org/t/p/w500/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1967",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt1000774",
+   "type": "movie",
+   "name": "Sex and the City",
+   "poster": "https://image.tmdb.org/t/p/w500/AhNfnsGW95RKHQNLdgFH48UN0Zy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt35672930",
+   "type": "movie",
+   "name": "Sidelined 2: Intercepted",
+   "poster": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0094898",
+   "type": "movie",
+   "name": "Coming to America",
+   "poster": "https://image.tmdb.org/t/p/w500/djRAvxyvvN2yqlJKDbT3uy4vOBw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1988",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1001508",
+   "type": "movie",
+   "name": "He's Just Not That Into You",
+   "poster": "https://image.tmdb.org/t/p/w500/jip2ap24Y6JxEgzVRyNqyYssnyR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2009",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0054698",
+   "type": "movie",
+   "name": "Breakfast at Tiffany's",
+   "poster": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1961",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0212338",
+   "type": "movie",
+   "name": "Meet the Parents",
+   "poster": "https://image.tmdb.org/t/p/w500/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0112778",
+   "type": "movie",
+   "name": "A Chinese Odyssey Part One: Pandora's Box",
+   "poster": "https://image.tmdb.org/t/p/w500/wIDDJ3FXPmVnNpxVoZOvjjcKVqj.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1995",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt3464902",
+   "type": "movie",
+   "name": "The Lobster",
+   "poster": "https://image.tmdb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0218967",
+   "type": "movie",
+   "name": "The Family Man",
+   "poster": "https://image.tmdb.org/t/p/w500/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2000",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0116695",
+   "type": "movie",
+   "name": "Jerry Maguire",
+   "poster": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1996",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1045658",
+   "type": "movie",
+   "name": "Silver Linings Playbook",
+   "poster": "https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt15326988",
+   "type": "movie",
+   "name": "Ghosted",
+   "poster": "https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt19704542",
+   "type": "movie",
+   "name": "Sidelined: The QB and Me",
+   "poster": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt3846674",
+   "type": "movie",
+   "name": "To All the Boys I've Loved Before",
+   "poster": "https://image.tmdb.org/t/p/w500/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt22740896",
+   "type": "movie",
+   "name": "People We Meet on Vacation",
+   "poster": "https://image.tmdb.org/t/p/w500/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2026",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0119822",
+   "type": "movie",
+   "name": "As Good as It Gets",
+   "poster": "https://image.tmdb.org/t/p/w500/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1997",
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt1068680",
+   "type": "movie",
+   "name": "Yes Man",
+   "poster": "https://image.tmdb.org/t/p/w500/8Vk2nQF1kY34x53YnWd5zDaTht.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2008",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0124298",
+   "type": "movie",
+   "name": "Blast from the Past",
+   "poster": "https://image.tmdb.org/t/p/w500/qVN4bbVX2tzaNbAdEJT5eOPq26c.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1999",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0112697",
+   "type": "movie",
+   "name": "Clueless",
+   "poster": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1995",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt9484998",
+   "type": "movie",
+   "name": "Palm Springs",
+   "poster": "https://image.tmdb.org/t/p/w500/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2020",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Science Fiction"
+   ]
+  },
+  {
+   "id": "tt1632708",
+   "type": "movie",
+   "name": "Friends with Benefits",
+   "poster": "https://image.tmdb.org/t/p/w500/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2011",
+   "genres": [
+    "Romance",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0274812",
+   "type": "movie",
+   "name": "Secretary",
+   "poster": "https://image.tmdb.org/t/p/w500/8mHdYNKCmvjB1r87waCtEi9nvTt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0053604",
+   "type": "movie",
+   "name": "The Apartment",
+   "poster": "https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1960",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0337563",
+   "type": "movie",
+   "name": "13 Going on 30",
+   "poster": "https://image.tmdb.org/t/p/w500/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6911608",
+   "type": "movie",
+   "name": "Mamma Mia! Here We Go Again",
+   "poster": "https://image.tmdb.org/t/p/w500/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2018",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0120828",
+   "type": "movie",
+   "name": "Six Days Seven Nights",
+   "poster": "https://image.tmdb.org/t/p/w500/fzWrrCzRa16v51TXAUuT6Wendw7.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1998",
+   "genres": [
+    "Comedy",
+    "Action",
+    "Adventure"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "metas": [
+  {
+   "id": "tt2874692",
+   "type": "series",
+   "name": "When Calls the Heart",
+   "poster": "https://image.tmdb.org/t/p/w500/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Drama",
+    "Western"
+   ]
+  },
+  {
+   "id": "tt3906732",
+   "type": "series",
+   "name": "Good Witch",
+   "poster": "https://image.tmdb.org/t/p/w500/c5B9CdRs9MY6Fgknv5uZQKWtl6F.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2015",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt5151816",
+   "type": "series",
+   "name": "Chesapeake Shores",
+   "poster": "https://image.tmdb.org/t/p/w500/wAWnKnDwrhfUZZ3hKlwr23yBOwM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2016",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt32378211",
+   "type": "series",
+   "name": "Mistletoe Murders",
+   "poster": "https://image.tmdb.org/t/p/w500/8W9zyufl0IkIbOQchORIPqOPi69.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt20221678",
+   "type": "series",
+   "name": "The Way Home",
+   "poster": "https://image.tmdb.org/t/p/w500/kfKsJktZvK22sYX2gV2LjsdIz3u.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Drama",
+    "Family",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt2871832",
+   "type": "series",
+   "name": "Cedar Cove",
+   "poster": "https://image.tmdb.org/t/p/w500/jI7srft4ntH3C4iJwaq4vDQMnHG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2013",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2231696",
+   "type": "series",
+   "name": "Home & Family",
+   "poster": "https://image.tmdb.org/t/p/w500/lvyodSMUtD1myQcwiIBn159bqi1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2012",
+   "genres": [
+    "Talk"
+   ]
+  },
+  {
+   "id": "tt32359507",
+   "type": "series",
+   "name": "The Chicken Sisters",
+   "poster": "https://image.tmdb.org/t/p/w500/eNFVyxZeb69HkMmCtl6Oh5A3eNe.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt3592718",
+   "type": "series",
+   "name": "Signed, Sealed, Delivered",
+   "poster": "https://image.tmdb.org/t/p/w500/ypUCDuxK0nS0EIbnuPOLyMMgxZH.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2014",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0090553",
+   "type": "series",
+   "name": "Zoobilee Zoo",
+   "poster": "https://image.tmdb.org/t/p/w500/8gQH6wjUzNv4hZduh0bjRwpH9dr.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "1986",
+   "genres": []
+  },
+  {
+   "id": "tt0271308",
+   "type": "series",
+   "name": "Tales from the Neverending Story",
+   "poster": "https://image.tmdb.org/t/p/w500/5WsO2qPQNdr7njiFg6XurxrEXp1.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Kids"
+   ]
+  },
+  {
+   "id": "tt0397501",
+   "type": "series",
+   "name": "King Solomon's Mines",
+   "poster": "https://image.tmdb.org/t/p/w500/hZWMm5Gh6KeWmPbp59Mz9yJMOhR.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt36260876",
+   "type": "series",
+   "name": "Twelve Dates 'Til Christmas",
+   "poster": "https://image.tmdb.org/t/p/w500/uY47XnLzJS02swuVHipXYl9epDE.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0802821",
+   "type": "series",
+   "name": "Pandemic",
+   "poster": "https://image.tmdb.org/t/p/w500/w5aUXmUAC82kqpImokPXkL11isW.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2007",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt32907224",
+   "type": "series",
+   "name": "Finding Mr. Christmas",
+   "poster": "https://image.tmdb.org/t/p/w500/xMEfX4Mds1cqCLNhF1Njc4qaF2k.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": [
+    "Reality"
+   ]
+  },
+  {
+   "id": "tt0448965",
+   "type": "series",
+   "name": "Jules Verne's Mysterious Island",
+   "poster": "https://image.tmdb.org/t/p/w500/ea0BBhtuAVtOosZwVdgOrtj8oRD.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0472242",
+   "type": "series",
+   "name": "Blackbeard",
+   "poster": "https://image.tmdb.org/t/p/w500/pK5Lh2BW9Yx4NCg4hPFfzqCsyIO.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt21043326",
+   "type": "series",
+   "name": "Ride",
+   "poster": "https://image.tmdb.org/t/p/w500/t1wyw44AXs8Sw3lRVHPuowk3xsd.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2023",
+   "genres": [
+    "Drama",
+    "Western"
+   ]
+  },
+  {
+   "id": "tt0341855",
+   "type": "series",
+   "name": "The Lady Musketeer",
+   "poster": "https://image.tmdb.org/t/p/w500/oeJHYjm68q1Wkps10j9anFomGLM.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt35166700",
+   "type": "series",
+   "name": "Providence Falls",
+   "poster": "https://image.tmdb.org/t/p/w500/wD2ZqawYZ9aySPZrQP9ds7laUyw.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Drama",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0280770",
+   "type": "series",
+   "name": "The Infinite Worlds of H.G. Wells",
+   "poster": "https://image.tmdb.org/t/p/w500/jEefrd36Qx7yoBqir19orzAOOqo.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0292272",
+   "type": "series",
+   "name": "Telling Stories with Tomie dePaola",
+   "poster": "https://image.tmdb.org/t/p/w500/8n3dnjYCHHWjXnjaQK8ibxvRN2R.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Family",
+    "Kids"
+   ]
+  },
+  {
+   "id": "tt0249603",
+   "type": "series",
+   "name": "A Girl Thing",
+   "poster": "https://image.tmdb.org/t/p/w500/lhU1uPxk8RzGrmmQyuJ3gDoIJA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2001",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0368730",
+   "type": "series",
+   "name": "Frankenstein",
+   "poster": "https://image.tmdb.org/t/p/w500/u53pUFpA78iluxsxKNq7ptughuS.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2004",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0286989",
+   "type": "series",
+   "name": "Stranded",
+   "poster": "https://image.tmdb.org/t/p/w500/qkpIbTtWge5GCqdlJ0Dj7Gt23Un.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Drama",
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt33349127",
+   "type": "series",
+   "name": "Celebrations with Lacey Chabert",
+   "poster": "https://image.tmdb.org/t/p/w500/p8cUwXWKcFOa98Vo3f6pGsLJtGt.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2024",
+   "genres": []
+  },
+  {
+   "id": "tt0294611",
+   "type": "series",
+   "name": "Hans Christian Andersen: My Life as a Fairytale",
+   "poster": "https://image.tmdb.org/t/p/w500/fEtZBEz8bOAQRaoqkyQRRBOp77g.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Family",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt0464799",
+   "type": "series",
+   "name": "The Curse of King Tut's Tomb",
+   "poster": "https://image.tmdb.org/t/p/w500/2wHL7mUG3iyBR5Cr6Or3u6gX8y9.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": [
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt37278460",
+   "type": "series",
+   "name": "Christmas at Sea",
+   "poster": "https://image.tmdb.org/t/p/w500/mfvTISu0GTnAQ9cQC9j7HpCWZPA.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Documentary",
+    "Reality"
+   ]
+  },
+  {
+   "id": "tt0424176",
+   "type": "series",
+   "name": "Frederick Forsyth's Icon",
+   "poster": "https://image.tmdb.org/t/p/w500/n84NIpaXYvoISFiqhQHVDSSxTU6.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2005",
+   "genres": [
+    "War & Politics"
+   ]
+  },
+  {
+   "id": "tt0210294",
+   "type": "series",
+   "name": "Snow Queen",
+   "poster": "https://image.tmdb.org/t/p/w500/5dZrAEIhkXmljz8xZ6PYGLTQKIG.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt34729564",
+   "type": "series",
+   "name": "The Motherhood",
+   "poster": "https://image.tmdb.org/t/p/w500/A2dyqZFlY9Vw3LmHjgzK6LpaQVs.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Reality",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt0290280",
+   "type": "series",
+   "name": "Roughing It",
+   "poster": "https://image.tmdb.org/t/p/w500/7ybRcz5hVdhoolFj5dOIEEL9SyU.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2002",
+   "genres": [
+    "Action & Adventure"
+   ]
+  },
+  {
+   "id": "tt38814531",
+   "type": "series",
+   "name": "Baked With Love: Holiday",
+   "poster": "https://image.tmdb.org/t/p/w500/gcO57XzFd9JkW49YKRH1ILngT1C.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2025",
+   "genres": [
+    "Reality"
+   ]
+  },
+  {
+   "id": "tt0478073",
+   "type": "series",
+   "name": "Final Days of Planet Earth",
+   "poster": "https://image.tmdb.org/t/p/w500/iM6ERedfiCsFhsyIMBXMGPpvF1u.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "2006",
+   "genres": []
+  },
+  {
+   "id": "tt2307673",
+   "type": "series",
+   "name": "Marie",
+   "poster": "https://image.tmdb.org/t/p/w500/9i8P6TdYK4JEVESYKCKfwfNnhgi.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "",
+   "genres": [
+    "Talk"
+   ]
+  },
+  {
+   "id": "tt1249299",
+   "type": "series",
+   "name": "Dear Prudence",
+   "poster": "https://image.tmdb.org/t/p/w500/5dtpxs2yBiZwK8LIjTBbZu6oh83.jpg",
+   "posterShape": "poster",
+   "releaseInfo": "",
+   "genres": [
+    "Mystery",
+    "Comedy"
+   ]
+  }
+ ]
+}
